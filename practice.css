@@ -1,0 +1,33 @@
+/* .box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid black;
+    margin: 5px;
+    text-align: center;
+    background-color: lightseagreen;
+} */
+
+/* #box{
+    height: 300px;
+    width: 100px;
+    background-color: blue;
+    columns: white;
+    border: 1px solid black;
+} */
+
+/* .myClass{
+    color: red;
+
+}
+.newClass{
+    background-color: yellow;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+.light{
+    background-color: white;
+    color: black;
+}
