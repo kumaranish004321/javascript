@@ -256,3 +256,33 @@
 
 //    console.log(currMode);
 // });
+
+//--Create a website for your college. class User 2properties, name & email
+
+
+// let DATA = "scret information"
+// class User {
+//     constructor (name, email) {
+//         this.name = name;
+//         this.email = email;
+//     }
+//     viewData() {
+//         console.log("data =", DATA);
+//     }
+// }
+
+// class Admin extends User{
+//     constructor(name, email) {
+//         super(name, email);
+//     }
+//     editData() {
+//         DATA = "some new value0";
+//     }
+// }
+
+// let student1 = new User("anish", "abc@emai.com");
+// let student2 = new User("baljeet", "bal@email.com");
+
+// let teacher1 = new User("HOD", "harsh12@email.com");
+
+// let admin1 = new Admin("admin", "admin@email.com");
